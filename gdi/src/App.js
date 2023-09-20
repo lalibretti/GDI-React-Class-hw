@@ -1,25 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './style.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// Exercise 2: Set It Up
+	// write a class component
+	// make it a div with a class name of App
+	// import Header and Homepage
+	// include them inside of App
+	// export the App component!
 
-export default App;
+
