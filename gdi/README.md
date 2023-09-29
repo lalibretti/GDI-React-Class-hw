@@ -1,3 +1,6 @@
+# Class 3 homework 
+
+
 # Class 2 Homework -update the following files: App.js, HomePage.jsx, and the files in the components folder
 
 1. write a class component with a dic and appropriate class name
